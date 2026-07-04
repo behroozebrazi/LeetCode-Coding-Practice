@@ -48,6 +48,7 @@ More languages may be added in the future.
 | 217 | [Contains Duplicate](http://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/217.%20Contains%20Duplicate) | 🟢 | | |
 | 219 | [Contains Duplicate II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/219.%20Contains%20Duplicate%20II) | 🟢 | | |
 | 242 | [Valid Anagram](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/242.%20Valid%20Anagram) | 🟢 | | |
+| 290 | [Word Pattern](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/290.%20Word%20Pattern) | 🟢 | | |
 | 383 | [Ransom Note](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/383.%20Ransom%20Note) | 🟢 | | |
 | 387 | [First Unique Character in a String](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/387.%20First%20Unique%20Character%20in%20a%20String) | 🟢 | | |
 | x | [x]() | | | 🔴 |
