@@ -1,4 +1,6 @@
-# LeetCode Solutions
+<p align="center">
+  <img src="assets/LeetCodeSolutionsLogo.png" alt="LeetCode Solutions" width="100%">
+</p>
 
 Welcome to my **LeetCode Solutions** repository!
 
@@ -34,9 +36,11 @@ More languages may be added in the future.
 # Problem List
 
 | # | Title | Difficulty |
-|---|-------|----------|------------|
-| 1 | [Two Sum](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/1.%20Two%20Sum) | Easy |
-| 219 | [Contains Duplicate II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/219.%20Contains%20Duplicate%20II) | Easy |
+|---|-------|------------|
+| 1 | [Two Sum](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/1.%20Two%20Sum) | 🟢 Easy |
+| 219 | [Contains Duplicate II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/219.%20Contains%20Duplicate%20II) | 🟢 Easy |
+| x | [x]() | 🟡 Medium |
+| x | [x]() | 🔴 Hard |
 
 ---
 
