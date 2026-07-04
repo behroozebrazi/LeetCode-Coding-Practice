@@ -36,7 +36,7 @@ More languages may be added in the future.
 # Problem List
 
 | # | Title | Easy | Medium | Hard |
-|---|-------|------------|
+|---|-------|------|--------|------|
 | 1 | [Two Sum](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/1.%20Two%20Sum) | 🟢 | | |
 | 13 | [Roman to Integer](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/13.%20Roman%20to%20Integer) | 🟢 | | |
 | 14 | [Longest Common Prefix](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/14.%20Longest%20Common%20Prefix) | 🟢 | | |
