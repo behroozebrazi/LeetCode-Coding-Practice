@@ -43,7 +43,11 @@ More languages may be added in the future.
 | 169 | [Majority Element](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/169.%20Majority%20Element) | 🟢 Easy |
 | 202 | [Happy Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/202.%20Happy%20Number) | 🟢 Easy |
 | 205 | [Isomorphic Strings]() | 🟢 Easy |
+| 217 | [Contains Duplicate]() | 🟢 Easy |
 | 219 | [Contains Duplicate II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/219.%20Contains%20Duplicate%20II) | 🟢 Easy |
+| 242 | []() | 🟢 Easy |
+| 383 | []() | 🟢 Easy |
+| 387 | []() | 🟢 Easy |
 | x | [x]() | 🟡 Medium |
 | x | [x]() | 🔴 Hard |
 
