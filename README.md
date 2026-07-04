@@ -38,8 +38,11 @@ More languages may be added in the future.
 | # | Title | Difficulty |
 |---|-------|------------|
 | 1 | [Two Sum](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/1.%20Two%20Sum) | 🟢 Easy |
+| 14 | [Longest Common Prefix]() | 🟢 Easy |
+| 121 | [Best Time to Buy and Sell Stock]() | 🟢 Easy |
 | 219 | [Contains Duplicate II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/219.%20Contains%20Duplicate%20II) | 🟢 Easy |
-| 219 | [121. Best Time to Buy and Sell Stock]() | 🟢 Easy |
+
+
 | x | [x]() | 🟡 Medium |
 | x | [x]() | 🔴 Hard |
 
