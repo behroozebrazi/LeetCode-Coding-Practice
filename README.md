@@ -46,6 +46,7 @@ More languages may be added in the future.
 | 169 | [Majority Element](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/169.%20Majority%20Element) | 🟢 | | |
 | 202 | [Happy Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/202.%20Happy%20Number) | 🟢 | | |
 | 205 | [Isomorphic Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/205.%20Isomorphic%20Strings) | 🟢 | | |
+| 214 | [Shortest Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/214.%20Shortest%20Palindrome) | 🔴 | | |
 | 217 | [Contains Duplicate](http://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/217.%20Contains%20Duplicate) | 🟢 | | |
 | 219 | [Contains Duplicate II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/219.%20Contains%20Duplicate%20II) | 🟢 | | |
 | 242 | [Valid Anagram](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/242.%20Valid%20Anagram) | 🟢 | | |
@@ -53,7 +54,6 @@ More languages may be added in the future.
 | 383 | [Ransom Note](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/383.%20Ransom%20Note) | 🟢 | | |
 | 387 | [First Unique Character in a String](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/387.%20First%20Unique%20Character%20in%20a%20String) | 🟢 | | |
 | 415 | [Add Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/415.%20Add%20String) | 🟢 | | |
-| x | [x]() | | | 🔴 |
 
 ---
 
