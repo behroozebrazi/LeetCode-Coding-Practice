@@ -38,6 +38,7 @@ More languages may be added in the future.
 | # | Title | Easy | Medium | Hard |
 |---|-------|------|--------|------|
 | 1 | [Two Sum](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/1.%20Two%20Sum) | 🟢 | | |
+| 9 | [Palindrome Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/9.%20Palindrome%20Number) | 🟢 | | |
 | 13 | [Roman to Integer](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/13.%20Roman%20to%20Integer) | 🟢 | | |
 | 14 | [Longest Common Prefix](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/14.%20Longest%20Common%20Prefix) | 🟢 | | |
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | 🟢 | | |
