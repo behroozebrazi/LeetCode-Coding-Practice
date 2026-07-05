@@ -52,6 +52,7 @@ More languages may be added in the future.
 | 290 | [Word Pattern](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/290.%20Word%20Pattern) | 🟢 | | |
 | 383 | [Ransom Note](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/383.%20Ransom%20Note) | 🟢 | | |
 | 387 | [First Unique Character in a String](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/387.%20First%20Unique%20Character%20in%20a%20String) | 🟢 | | |
+| 415 | [Add Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/415.%20Add%20String) | 🟢 | | |
 | x | [x]() | | | 🔴 |
 
 ---
