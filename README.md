@@ -35,20 +35,20 @@ More languages may be added in the future.
 
 # Problem List
 
-| # | Title | Easy | Medium | Hard |
-|---|-------|------|--------|------|
+| # | Title | Difficulty | Data Structures |  |
+|---|-------|------------|-----------------|--|
 | 1 | [Two Sum](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/1.%20Two%20Sum) | 🟢 | | |
 | 9 | [Palindrome Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/9.%20Palindrome%20Number) | 🟢 | | |
 | 13 | [Roman to Integer](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/13.%20Roman%20to%20Integer) | 🟢 | | |
 | 14 | [Longest Common Prefix](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/14.%20Longest%20Common%20Prefix) | 🟢 | | |
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | 🟢 | | |
 | 125 | [Valid Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/125.%20Valid%20Palindrome) | 🟢 | | |
-| 146 | [LRU Cache](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/146.%20LRU%20Cache) | | 🟡 | |
+| 146 | [LRU Cache](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/146.%20LRU%20Cache) | 🟡 | | |
 | 169 | [Majority Element](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/169.%20Majority%20Element) | 🟢 | | |
 | 202 | [Happy Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/202.%20Happy%20Number) | 🟢 | | |
 | 205 | [Isomorphic Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/205.%20Isomorphic%20Strings) | 🟢 | | |
-| 206 | [Reverse Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/206.%20Reverse$20Linked%20List) | 🟢 | | |
-| 214 | [Shortest Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/214.%20Shortest%20Palindrome) | | | 🔴 |
+| 206 | [Reverse Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/206.%20Reverse%20Linked%20List) | 🟢 | | |
+| 214 | [Shortest Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/214.%20Shortest%20Palindrome) | 🔴 | | |
 | 217 | [Contains Duplicate](http://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/217.%20Contains%20Duplicate) | 🟢 | | |
 | 219 | [Contains Duplicate II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/219.%20Contains%20Duplicate%20II) | 🟢 | | |
 | 242 | [Valid Anagram](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/242.%20Valid%20Anagram) | 🟢 | | |
