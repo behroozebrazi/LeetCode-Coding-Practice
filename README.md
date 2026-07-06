@@ -47,6 +47,7 @@ More languages may be added in the future.
 | 169 | [Majority Element](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/169.%20Majority%20Element) | 🟢 | | |
 | 202 | [Happy Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/202.%20Happy%20Number) | 🟢 | | |
 | 205 | [Isomorphic Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/205.%20Isomorphic%20Strings) | 🟢 | | |
+| 206 | [Reverse Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/206.%20Reverse$20Linked%20List) | 🟢 | | |
 | 214 | [Shortest Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/214.%20Shortest%20Palindrome) | | | 🔴 |
 | 217 | [Contains Duplicate](http://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/217.%20Contains%20Duplicate) | 🟢 | | |
 | 219 | [Contains Duplicate II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/219.%20Contains%20Duplicate%20II) | 🟢 | | |
