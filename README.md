@@ -46,13 +46,13 @@ More languages may be added in the future.
 | 146 | [LRU Cache](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/146.%20LRU%20Cache) | 🟡 Med. | Hash Map | |
 | 169 | [Majority Element](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/169.%20Majority%20Element) | 🟢 Easy | Hash Map | |
 | 202 | [Happy Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/202.%20Happy%20Number) | 🟢 Easy | Hash Set | |
-| 205 | [Isomorphic Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/205.%20Isomorphic%20Strings) | 🟢 Easy | Hash Map & Set | |
+| 205 | [Isomorphic Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/205.%20Isomorphic%20Strings) | 🟢 Easy | Hash Map & Hash Set | |
 | 206 | [Reverse Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/206.%20Reverse%20Linked%20List) | 🟢 Easy | Linked List | |
 | 214 | [Shortest Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Hard/214.%20Shortest%20Palindrome) | 🔴 Hard | String | |
 | 217 | [Contains Duplicate](http://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/217.%20Contains%20Duplicate) | 🟢 Easy | Hash Set | |
 | 219 | [Contains Duplicate II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/219.%20Contains%20Duplicate%20II) | 🟢 Easy | Hash Map | |
 | 242 | [Valid Anagram](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/242.%20Valid%20Anagram) | 🟢 Easy | Hash Map | |
-| 290 | [Word Pattern](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/290.%20Word%20Pattern) | 🟢 Easy | Hash Map & Set | |
+| 290 | [Word Pattern](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/290.%20Word%20Pattern) | 🟢 Easy | Hash Map & Hash Set | |
 | 383 | [Ransom Note](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/383.%20Ransom%20Note) | 🟢 Easy | Hash Map | |
 | 387 | [First Unique Character in a String](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/387.%20First%20Unique%20Character%20in%20a%20String) | 🟢 Easy | Hash Map | |
 | 415 | [Add Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/415.%20Add%20String) | 🟢 Easy | String | |
