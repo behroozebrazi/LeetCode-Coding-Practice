@@ -1,27 +1,14 @@
 <p align="center">
-  <img src="assets/LeetCodeSolutionsLogo.png" alt="LeetCode Solutions" width="100%">
+  <img src="assets/LeetCodeSolutionsLogo.png" alt="LeetCode Solutions" width="70%">
 </p>
 
-Welcome to my **LeetCode Solutions** repository!
-
 This repository contains my solutions to LeetCode problems as I practice **Data Structures**, **Algorithms**, and **Coding Interview** questions.
-
-The goal of this repository is to:
-
-- 📚 Improve problem-solving skills
-- 💻 Prepare for Software Engineer interviews
-- 🚀 Practice writing clean and efficient code
-- 📈 Track learning progress over time
 
 ---
 
 ## Languages
 
-Currently solving problems in:
-
-- 🐍 Python 3
-
-More languages may be added in the future.
+Currently solving problems in 🐍 Python 3
 
 ---
 
@@ -33,7 +20,7 @@ More languages may be added in the future.
 
 ---
 
-# Problem List
+## Problem List
 
 | # | Title | Diffi<br>culty | String | Array | Hash<br>Set | Hash<br>Map | Linked<br>List |
 |---|-------|----------------|--------|-------|-------------|-------------|----------------|
@@ -62,24 +49,12 @@ More languages may be added in the future.
 
 ## Topics Covered
 
-This repository includes problems involving:
-
-- Arrays
-- Strings
-- Hash Maps
-- Hash Sets
-- Two Pointers
-- Sliding Window
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search
-- Recursion
-- Dynamic Programming
-- Graphs
-- Heaps (Priority Queue)
-- BFS & DFS
+|           |                |               |                        |
+|-----------|----------------|---------------|------------------------|
+| Arrays    | Linked Lists   | Graphs        | Dynamic Programming    |
+| Strings   | Stacks         | BFS & DFS     | Heaps (Priority Queue) |
+| Hash Maps | Queues         | Trees         | Recursion              |
+| Hash Sets | Sliding Window | Binary Search | Two Pointers           |
 
 ---
 
