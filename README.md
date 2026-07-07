@@ -41,7 +41,7 @@ More languages may be added in the future.
 | 9 | [Palindrome Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/9.%20Palindrome%20Number) | 🟢 Easy | String | |
 | 13 | [Roman to Integer](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/13.%20Roman%20to%20Integer) | 🟢 Easy | Hash Map | |
 | 14 | [Longest Common Prefix](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/14.%20Longest%20Common%20Prefix) | 🟢 Easy | Array | |
-| 82 | [Remove Duplicates from Sorted List II]() | 🟡 Med. | Linked List | |
+| 82 | [Remove Duplicates from Sorted List II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II) | 🟡 Med. | Linked List | |
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | 🟢 Easy | Array | |
 | 125 | [Valid Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/125.%20Valid%20Palindrome) | 🟢 Easy | String | |
 | 146 | [LRU Cache](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/146.%20LRU%20Cache) | 🟡 Med. | Hash Map | |
