@@ -28,10 +28,11 @@ Currently solving problems in 🐍 Python 3
 | 9 | [Palindrome Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/9.%20Palindrome%20Number) | 🟢 |☑️| | | | |
 | 13 | [Roman to Integer](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/13.%20Roman%20to%20Integer) | 🟢 | | | |☑️| |
 | 14 | [Longest Common Prefix](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/14.%20Longest%20Common%20Prefix) | 🟢 | |☑️| | | |
+| 21 | [Merge Two Sorted Lists](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/21.%20Merge%20Two%20Sorted%20Lists) | 🟢 | | | | |☑️|
 | 82 | [Remove Duplicates from Sorted List II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II) | 🟡 | | | | |☑️|
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | 🟢 | |☑️| | | |
 | 125 | [Valid Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/125.%20Valid%20Palindrome) | 🟢 |☑️| | | | |
-| 141 | [141. Linked List Cycle](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/141.%20Linked%20List%20Cycle) | 🟢 | | | | |☑️|
+| 141 | [Linked List Cycle](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/141.%20Linked%20List%20Cycle) | 🟢 | | |☑️| |☑️|
 | 146 | [LRU Cache](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/146.%20LRU%20Cache) | 🟡 | | | |☑️| |
 | 169 | [Majority Element](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/169.%20Majority%20Element) | 🟢 | | | |☑️| |
 | 202 | [Happy Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/202.%20Happy%20Number) | 🟢 | | |☑️| | |
