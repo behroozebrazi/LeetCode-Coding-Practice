@@ -16,7 +16,7 @@ Currently solving problems in 🐍 Python 3
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |--------------|--------|----------|--------|
-| 25 | 21 | 3 | 1 |
+| 26 | 21 | 4 | 1 |
 
 ---
 
@@ -30,7 +30,7 @@ Currently solving problems in 🐍 Python 3
 | 14 | [Longest Common Prefix](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/14.%20Longest%20Common%20Prefix) | 🟢 | |☑️| | | |
 | 21 | [Merge Two Sorted Lists](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/21.%20Merge%20Two%20Sorted%20Lists) | 🟢 | | | | |☑️|
 | 82 | [Remove Duplicates from Sorted List II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II) | 🟡 | | | | |☑️|
-| 83 | [Remove Duplicates from Sorted List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/83.%20Remove%20Duplicates%20from%20Sorted%20List) | 🟢 | | | | |☑️|
+| 83 | [Remove Duplicates from Sorted List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/83.%20Remove%20Duplicates%20from%20Sorted%20List) | 🟢 | | | | |☑️|
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | 🟢 | |☑️| | | |
 | 125 | [Valid Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/125.%20Valid%20Palindrome) | 🟢 |☑️| | | | |
 | 141 | [Linked List Cycle](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/141.%20Linked%20List%20Cycle) | 🟢 | | |☑️| |☑️|
@@ -45,6 +45,7 @@ Currently solving problems in 🐍 Python 3
 | 217 | [Contains Duplicate](http://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/217.%20Contains%20Duplicate) | 🟢 | | |☑️| | |
 | 219 | [Contains Duplicate II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/219.%20Contains%20Duplicate%20II) | 🟢 | | | |☑️| |
 | 242 | [Valid Anagram](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/242.%20Valid%20Anagram) | 🟢 | | | |☑️| |
+| 273 | [Delete Node in a Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/237.%20Delete%20Node%20in%20a%20Linked%20List) | 🟡 | | | | |☑️|
 | 290 | [Word Pattern](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/290.%20Word%20Pattern) | 🟢 | | |☑️|☑️| |
 | 383 | [Ransom Note](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/383.%20Ransom%20Note) | 🟢 | | | |☑️| |
 | 387 | [First Unique Character in a String](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/387.%20First%20Unique%20Character%20in%20a%20String) | 🟢 | | | |☑️| |
