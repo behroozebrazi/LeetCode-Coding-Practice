@@ -16,7 +16,7 @@ Currently solving problems in 🐍 Python 3
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |--------------|--------|----------|--------|
-| 20 | 17 | 2 | 1 |
+| 22 | 19 | 2 | 1 |
 
 ---
 
@@ -33,6 +33,7 @@ Currently solving problems in 🐍 Python 3
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | 🟢 | |☑️| | | |
 | 125 | [Valid Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/125.%20Valid%20Palindrome) | 🟢 |☑️| | | | |
 | 141 | [Linked List Cycle](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/141.%20Linked%20List%20Cycle) | 🟢 | | |☑️| |☑️|
+| 143 | [Reorder List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/143.%20Reorder%20List) | 🟡 | |☑️| | |☑️|
 | 146 | [LRU Cache](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/146.%20LRU%20Cache) | 🟡 | | | |☑️| |
 | 169 | [Majority Element](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/169.%20Majority%20Element) | 🟢 | | | |☑️| |
 | 202 | [Happy Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/202.%20Happy%20Number) | 🟢 | | |☑️| | |
