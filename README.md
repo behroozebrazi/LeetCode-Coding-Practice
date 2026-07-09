@@ -16,7 +16,7 @@ Currently solving problems in 🐍 Python 3
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |--------------|--------|----------|--------|
-| 22 | 19 | 2 | 1 |
+| 24 | 20 | 3 | 1 |
 
 ---
 
@@ -37,6 +37,7 @@ Currently solving problems in 🐍 Python 3
 | 146 | [LRU Cache](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/146.%20LRU%20Cache) | 🟡 | | | |☑️| |
 | 169 | [Majority Element](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/169.%20Majority%20Element) | 🟢 | | | |☑️| |
 | 202 | [Happy Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/202.%20Happy%20Number) | 🟢 | | |☑️| | |
+| 203 | [Remove Linked List Elements](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/203.%20Remove%20Linked%20List%20Elements) | 🟢 | | | | |☑️|
 | 205 | [Isomorphic Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/205.%20Isomorphic%20Strings) | 🟢 | | |☑️|☑️| |
 | 206 | [Reverse Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/206.%20Reverse%20Linked%20List) | 🟢 | | | | |☑️|
 | 214 | [Shortest Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Hard/214.%20Shortest%20Palindrome) | 🔴 |☑️| | | | |
