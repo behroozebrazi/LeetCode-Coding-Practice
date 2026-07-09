@@ -16,7 +16,7 @@ Currently solving problems in 🐍 Python 3
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |--------------|--------|----------|--------|
-| 26 | 21 | 4 | 1 |
+| 27 | 22 | 4 | 1 |
 
 ---
 
@@ -44,12 +44,13 @@ Currently solving problems in 🐍 Python 3
 | 214 | [Shortest Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Hard/214.%20Shortest%20Palindrome) | 🔴 |☑️| | | | |
 | 217 | [Contains Duplicate](http://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/217.%20Contains%20Duplicate) | 🟢 | | |☑️| | |
 | 219 | [Contains Duplicate II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/219.%20Contains%20Duplicate%20II) | 🟢 | | | |☑️| |
+| 237 | [Delete Node in a Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/237.%20Delete%20Node%20in%20a%20Linked%20List) | 🟡 | | | | |☑️|
 | 242 | [Valid Anagram](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/242.%20Valid%20Anagram) | 🟢 | | | |☑️| |
-| 273 | [Delete Node in a Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/237.%20Delete%20Node%20in%20a%20Linked%20List) | 🟡 | | | | |☑️|
 | 290 | [Word Pattern](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/290.%20Word%20Pattern) | 🟢 | | |☑️|☑️| |
 | 383 | [Ransom Note](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/383.%20Ransom%20Note) | 🟢 | | | |☑️| |
 | 387 | [First Unique Character in a String](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/387.%20First%20Unique%20Character%20in%20a%20String) | 🟢 | | | |☑️| |
 | 415 | [Add Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/415.%20Add%20String) | 🟢 |☑️| | | | |
+| 876 | [Middle of the Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/876.%20Middle%20of%20the%20Linked%20List) | 🟢 | | | | |☑️|
 
 ---
 
