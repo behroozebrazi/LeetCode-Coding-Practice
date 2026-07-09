@@ -16,7 +16,7 @@ Currently solving problems in 🐍 Python 3
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |--------------|--------|----------|--------|
-| 27 | 22 | 4 | 1 |
+| 28 | 23 | 4 | 1 |
 
 ---
 
@@ -36,6 +36,7 @@ Currently solving problems in 🐍 Python 3
 | 141 | [Linked List Cycle](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/141.%20Linked%20List%20Cycle) | 🟢 | | |☑️| |☑️|
 | 143 | [Reorder List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/143.%20Reorder%20List) | 🟡 | |☑️| | |☑️|
 | 146 | [LRU Cache](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/146.%20LRU%20Cache) | 🟡 | | | |☑️| |
+| 160 | [Intersection of Two Linked Lists](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/160.%20Intersection%20of%20Two%20Linked%20Lists) | 🟢 | | | | |☑️|
 | 169 | [Majority Element](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/169.%20Majority%20Element) | 🟢 | | | |☑️| |
 | 202 | [Happy Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/202.%20Happy%20Number) | 🟢 | | |☑️| | |
 | 203 | [Remove Linked List Elements](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/203.%20Remove%20Linked%20List%20Elements) | 🟢 | | | | |☑️|
