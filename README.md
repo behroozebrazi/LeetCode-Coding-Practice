@@ -16,7 +16,7 @@ Currently solving problems in 🐍 Python 3
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |--------------|--------|----------|--------|
-| 24 | 20 | 3 | 1 |
+| 25 | 21 | 3 | 1 |
 
 ---
 
@@ -30,6 +30,7 @@ Currently solving problems in 🐍 Python 3
 | 14 | [Longest Common Prefix](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/14.%20Longest%20Common%20Prefix) | 🟢 | |☑️| | | |
 | 21 | [Merge Two Sorted Lists](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/21.%20Merge%20Two%20Sorted%20Lists) | 🟢 | | | | |☑️|
 | 82 | [Remove Duplicates from Sorted List II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II) | 🟡 | | | | |☑️|
+| 83 | [Remove Duplicates from Sorted List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/83.%20Remove%20Duplicates%20from%20Sorted%20List) | 🟢 | | | | |☑️|
 | 121 | [Best Time to Buy and Sell Stock](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) | 🟢 | |☑️| | | |
 | 125 | [Valid Palindrome](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/125.%20Valid%20Palindrome) | 🟢 |☑️| | | | |
 | 141 | [Linked List Cycle](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/141.%20Linked%20List%20Cycle) | 🟢 | | |☑️| |☑️|
