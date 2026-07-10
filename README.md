@@ -16,7 +16,7 @@ Currently solving problems in 🐍 Python 3
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |--------------|--------|----------|--------|
-| 28 | 23 | 4 | 1 |
+| 31 | 21 | 6 | 1 |
 
 ---
 
@@ -29,6 +29,8 @@ Currently solving problems in 🐍 Python 3
 | 13 | [Roman to Integer](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/13.%20Roman%20to%20Integer) | 🟢 | | | |☑️| | |
 | 14 | [Longest Common Prefix](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/14.%20Longest%20Common%20Prefix) | 🟢 | |☑️| | | | |
 | 21 | [Merge Two Sorted Lists](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/21.%20Merge%20Two%20Sorted%20Lists) | 🟢 | | | | |☑️| |
+| 33 | [Search in Rotated Sorted Array](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/33.%20Search%20in%20Rotated%20Sorted%20Array) | 🟡 | | | | | |☑️|
+| 34 | [Find First and Last Position of Element in Sorted Array](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array) | 🟡 | | | | | |☑️|
 | 35 | [Search Insert Position](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/35.%20Search%20Insert%20Position) | 🟢 | | | | | |☑️|
 | 82 | [Remove Duplicates from Sorted List II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II) | 🟡 | | | | |☑️| |
 | 83 | [Remove Duplicates from Sorted List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/83.%20Remove%20Duplicates%20from%20Sorted%20List) | 🟢 | | | | |☑️| |
