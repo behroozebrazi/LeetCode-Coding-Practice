@@ -23,7 +23,7 @@ Currently solving problems in 🐍 Python 3
 ## Problem List
 
 | # | Title | Diffi<br>culty | String | Array | Hash<br>Set | Hash<br>Map | Linked<br>List | Binary<br>Search |
-|---|-------|----------------|--------|-------|-------------|-------------|----------------|
+|---|-------|----------------|--------|-------|-------------|-------------|----------------|------------------|
 | 1 | [Two Sum](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/1.%20Two%20Sum) | 🟢 | | | |☑️| | |
 | 9 | [Palindrome Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/9.%20Palindrome%20Number) | 🟢 |☑️| | | | | |
 | 13 | [Roman to Integer](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/13.%20Roman%20to%20Integer) | 🟢 | | | |☑️| | |
