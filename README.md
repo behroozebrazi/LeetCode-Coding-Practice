@@ -16,7 +16,7 @@ Currently solving problems in 🐍 Python 3
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |--------------|----------|-----------|---------|
-| 33 | 25 | 7 | 1 |
+| 34 | 25 | 8 | 1 |
 
 ---
 
@@ -52,6 +52,7 @@ Currently solving problems in 🐍 Python 3
 | | |☑️| | | | | | | |🟡| 237 | [Delete Node in a Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/237.%20Delete%20Node%20in%20a%20Linked%20List) |
 | |☑️| | | | | | | | |🟢| 242 | [Valid Anagram](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/242.%20Valid%20Anagram) |
 | |☑️| | | | | | | | |🟢| 290 | [Word Pattern](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/290.%20Word%20Pattern) |
+| | | | |☑️| | | | | |🟡| 347 | [Top K Frequent Elements](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/347.%20Top%20K%20Frequent%20Elements) |
 | |☑️| | | | | | | | |🟢| 383 | [Ransom Note](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/383.%20Ransom%20Note) |
 | |☑️| | | | | | | | |🟢| 387 | [First Unique Character in a String](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/387.%20First%20Unique%20Character%20in%20a%20String) |
 |☑️| | | | | | | | | |🟢| 415 | [Add Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/415.%20Add%20String) |
