@@ -16,7 +16,7 @@ Currently solving problems in 🐍 Python 3
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |--------------|----------|-----------|---------|
-| 34 | 25 | 8 | 1 |
+| 35 | 25 | 8 | 2 |
 
 ---
 
@@ -50,14 +50,15 @@ Currently solving problems in 🐍 Python 3
 | |☑️| | | | | | | | |🟢| 217 | [Contains Duplicate](http://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/217.%20Contains%20Duplicate) |
 | |☑️| | | | | | | | |🟢| 219 | [Contains Duplicate II](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/219.%20Contains%20Duplicate%20II) |
 | | |☑️| | | | | | | |🟡| 237 | [Delete Node in a Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/237.%20Delete%20Node%20in%20a%20Linked%20List) |
+| | | | |☑️| | | | | |🔴| 239 | [Sliding Window Maximum](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Hard/239.%20Sliding%20Window%20Maximum) |
 | |☑️| | | | | | | | |🟢| 242 | [Valid Anagram](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/242.%20Valid%20Anagram) |
 | |☑️| | | | | | | | |🟢| 290 | [Word Pattern](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/290.%20Word%20Pattern) |
-| | | | |☑️| | | | | |🟡| 347 | [Top K Frequent Elements](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/347.%20Top%20K%20Frequent%20Elements) |
+|☑️|☑️| | |☑️| | | | | |🟡| 347 | [Top K Frequent Elements](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/347.%20Top%20K%20Frequent%20Elements) |
 | |☑️| | | | | | | | |🟢| 383 | [Ransom Note](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/383.%20Ransom%20Note) |
 | |☑️| | | | | | | | |🟢| 387 | [First Unique Character in a String](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/387.%20First%20Unique%20Character%20in%20a%20String) |
 |☑️| | | | | | | | | |🟢| 415 | [Add Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/415.%20Add%20String) |
 | | |☑️| | | | | | | |🟢| 876 | [Middle of the Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/876.%20Middle%20of%20the%20Linked%20List) |
-| | | | |☑️| | | | | |🟡| 973 | [K Closest Points to Origin](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/973.%20K%20Closest%20Points%20to%20Origin) |
+|☑️| | | |☑️| | | | | |🟡| 973 | [K Closest Points to Origin](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/973.%20K%20Closest%20Points%20to%20Origin) |
 
 ---
 
