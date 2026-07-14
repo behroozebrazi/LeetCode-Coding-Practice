@@ -25,6 +25,7 @@ Currently solving problems in 🐍 Python 3
 | Str<br>ing <br> Arr<br>ay | Hash <br> Map <br> Hash <br> Set | Link<br>ed <br> List | Bin<br>ary <br> Sea<br>rch | Stack <br> Queue <br> Heap | Slid<br>ing <br> Win<br>dow | Tr<br>ee | Gra<br>ph | DP | Gre<br>edy | 🔴<br>🟡<br>🟢 | # | Title |
 |---------------------------|----------------------------------|----------------------|----------------------------|----------------------------|-----------------------------|----------|-----------|----|------------|-----------------|---|-------|
 | |☑️| | | | | | | | |🟢| 1 | [Two Sum](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/1.%20Two%20Sum) |
+| |☑️| | | |☑️| | | | |🟡| 3 | [Longest Substring Without Repeating Characters](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/3.%20Longest%20Substring%20Without%20Repeating%20Characters) |
 |☑️| | | | | | | | | |🟢| 9 | [Palindrome Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/9.%20Palindrome%20Number) |
 | |☑️| | | | | | | | |🟢| 13 | [Roman to Integer](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/13.%20Roman%20to%20Integer) |
 |☑️| | | | | | | | | |🟢| 14 | [Longest Common Prefix](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/14.%20Longest%20Common%20Prefix) |
