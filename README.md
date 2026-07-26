@@ -61,6 +61,7 @@ Currently solving problems in 🐍 Python 3
 | | |☑️| | | | | | | |🟢| 876 | [Middle of the Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/876.%20Middle%20of%20the%20Linked%20List) |
 |☑️| | | |☑️| | | | | |🟡| 973 | [K Closest Points to Origin](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/973.%20K%20Closest%20Points%20to%20Origin) |
 | | | | | |☑️| | | | |🟡| 1004 | [Max Consecutive Ones III](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/1004.%20Max%20Consecutive%20Ones%20III) |
+|☑️|☑️| | | | | | | | |🟡| 1396 | [Design Underground System](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/1396.%20Design%20Underground%20System) |
 
 ---
 
