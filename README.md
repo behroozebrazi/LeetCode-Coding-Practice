@@ -59,6 +59,7 @@ Currently solving problems in 🐍 Python 3
 | |☑️| | | | | | | | |🟢| 383 | [Ransom Note](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/383.%20Ransom%20Note) |
 | |☑️| | | | | | | | |🟢| 387 | [First Unique Character in a String](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/387.%20First%20Unique%20Character%20in%20a%20String) |
 |☑️| | | | | | | | | |🟢| 415 | [Add Strings](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/415.%20Add%20String) |
+|☑️| | | | | | | | | |🟢| 705 | [Design HashSet](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/705.%20Design%20HashSet) |
 | | |☑️| | | | | | | |🟢| 876 | [Middle of the Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/876.%20Middle%20of%20the%20Linked%20List) |
 |☑️| | | |☑️| | | | | |🟡| 973 | [K Closest Points to Origin](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/973.%20K%20Closest%20Points%20to%20Origin) |
 | | | | | |☑️| | | | |🟡| 1004 | [Max Consecutive Ones III](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/1004.%20Max%20Consecutive%20Ones%20III) |
