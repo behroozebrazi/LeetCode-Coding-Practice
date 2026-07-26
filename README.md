@@ -41,6 +41,7 @@ Currently solving problems in 🐍 Python 3
 | |☑️|☑️| | | | | | | |🟢| 141 | [Linked List Cycle](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/141.%20Linked%20List%20Cycle) |
 |☑️| |☑️| | | | | | | |🟡| 143 | [Reorder List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/143.%20Reorder%20List) |
 | |☑️| | | | | | | | |🟡| 146 | [LRU Cache](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/146.%20LRU%20Cache) |
+| | | | |☑️| | | | | |🟡| 155 | [Min Stack](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/155.%20Min%20Stack) |
 | |☑️|☑️| | | | | | | |🟢| 160 | [Intersection of Two Linked Lists](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/160.%20Intersection%20of%20Two%20Linked%20Lists) |
 | |☑️| | | | | | | | |🟢| 169 | [Majority Element](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/169.%20Majority%20Element) |
 | |☑️| | | | | | | | |🟢| 202 | [Happy Number](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/202.%20Happy%20Number) |
@@ -61,7 +62,7 @@ Currently solving problems in 🐍 Python 3
 | | |☑️| | | | | | | |🟢| 876 | [Middle of the Linked List](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Easy/876.%20Middle%20of%20the%20Linked%20List) |
 |☑️| | | |☑️| | | | | |🟡| 973 | [K Closest Points to Origin](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/973.%20K%20Closest%20Points%20to%20Origin) |
 | | | | | |☑️| | | | |🟡| 1004 | [Max Consecutive Ones III](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/1004.%20Max%20Consecutive%20Ones%20III) |
-|☑️|☑️| | | | | | | | |🟡| 1396 | [Design Underground System](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/1396.%20Design%20Underground%20System) |
+| |☑️| | | | | | | | |🟡| 1396 | [Design Underground System](https://github.com/behroozebrazi/LeetCode-Coding-Practice/tree/main/Medium/1396.%20Design%20Underground%20System) |
 
 ---
 
