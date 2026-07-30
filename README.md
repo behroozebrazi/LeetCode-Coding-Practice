@@ -24,7 +24,7 @@ Currently solving problems in 🐍 Python 3
 
 | Rank | Problem | 🟢🟡🔴 | Pattern |
 |------|---------|---------|---------|
-|  |  |  |  |
+|    1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 | Hash Map |
 
 ---
 
