@@ -32,7 +32,7 @@ Currently solving problems in 🐍 Python 3
 |   6 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 | DP |
 |   7 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 | Greedy |
 |   8 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 | Two Pointers |
-|   9 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 | Fast & Slow |
+|   9 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 | Linked List |
 |  10 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 | Linked List |
 |  11 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 | Hash Set |
 |  12 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | 🟢 | Tree DFS |
