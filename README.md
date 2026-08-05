@@ -3,6 +3,7 @@
 
 | Total ⚫ 150   | Easy 🟢 39         | Medium 🟡 93       | Hard 🔴 18         |
 |----------------|---------------------|--------------------|---------------------|
+|                |                     |                    |                     |
 | Array / String | Stack               | Graph BFS          | Heap                |
 | Two Pointers   | Linked List         | Trie               | Bit Manipulation    |
 | Sliding Window | Binary Tree General | Backtracking       | Math                |
@@ -10,7 +11,7 @@
 | Hashmap        | Binary Search Tree  | Kadane's Algorithm | Multidimensional DP |
 | Intervals      | Graph General       | Binary Search      |                     |
 
-Currently solving problems in 🐍 Python 3
+- They are solved in 🐍 Python 3
 
 ---
 
@@ -242,11 +243,10 @@ Currently solving problems in 🐍 Python 3
 ```
 LeetCode-Coding-Practice/
 │
-├── Problems/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
+├── Easy/
+├── Medium/
+├── Hard/
+
 └── README.md
 ```
 
