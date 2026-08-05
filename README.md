@@ -1,12 +1,14 @@
-<p align="center">
-  <img src="assets/LeetCodeSolutionsLogo.png" alt="LeetCode Solutions" width="80%">
-</p>
 
-This repository contains my solutions to LeetCode problems as I practice **Data Structures**, **Algorithms**, and **Coding Interview** questions.
+## Topics Covered
 
----
-
-## Languages
+|                |                     |                    |                     |
+|----------------|---------------------|--------------------|---------------------|
+| Array / String | Stack               | Graph BFS          | Heap                |
+| Two Pointers   | Linked List         | Trie               | Bit Manipulation    |
+| Sliding Window | Binary Tree General | Backtracking       | Math                |
+| Matrix         | Binary Tree BFS     | Divide & Conquer   | 1D DP               |
+| Hashmap        | Binary Search Tree  | Kadane's Algorithm | Multidimensional DP |
+| Intervals      | Graph General       | Binary Search      |                     |
 
 Currently solving problems in 🐍 Python 3
 
@@ -16,14 +18,14 @@ Currently solving problems in 🐍 Python 3
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |--------------|----------|-----------|---------|
-| 100 | 24 | 69 | 7 |
+| 150 | 39 | 93 | 18 |
 
 ---
 
 ## Problem List
 
-|     | Array / String | ⚫ |
-|-----|----------------|-----|
+|   | Array / String | ⚫ |
+|---|---|---|
 |   1 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | 🟢 |
 |   2 | [27. Remove Element](https://leetcode.com/problems/remove-element) | 🟢 |
 |   3 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 |
@@ -49,27 +51,197 @@ Currently solving problems in 🐍 Python 3
 |  23 | [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | 🟢 |
 |  24 | [68. Text Justification](https://leetcode.com/problems/text-justification) | 🔴 |
 
-
-|     | Two Pointers | ⚫ |
-|-----|--------------|-----|
+|   | Two Pointers | ⚫ |
+|---|---|---|
 |  25 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | 🟢 |
 |  26 | [392. Is Subsequence](https://leetcode.com/problems/is-subsequence) | 🟢 |
 |  27 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | 🟡 |
 |  28 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 |
 |  29 | [15. 3Sum](https://leetcode.com/problems/3sum) | 🟡 |
 
----
+|   | Sliding Window | ⚫ |
+|---|---|---|
+|  30 | []() | 🟡 |
+|  31 | []() | 🟡 |
+|  32 | []() | 🔴 |
+|  33 | []() | 🔴 |
 
-## Topics Covered
+|   | Matrix | ⚫ |
+|---|---|---|
+|  34 | []() | 🟡 |
+|  35 | []() | 🟡 |
+|  36 | []() | 🟡 |
+|  37 | []() | 🟡 |
+|  38 | []() | 🟡 |
 
-|                |                     |                    |                     |
-|----------------|---------------------|--------------------|---------------------|
-| Array / String | Stack               | Graph BFS          | Heap                |
-| Two Pointers   | Linked List         | Trie               | Bit Manipulation    |
-| Sliding Window | Binary Tree General | Backtracking       | Math                |
-| Matrix         | Binary Tree BFS     | Divide & Conquer   | 1D DP               |
-| Hashmap        | Binary Search Tree  | Kadane's Algorithm | Multidimensional DP |
-| Intervals      | Graph General       | Binary Search      |                     |
+|   | Hashmap | ⚫ |
+|---|---|---|
+|  39 | []() | 🟢 |
+|  40 | []() | 🟢 |
+|  41 | []() | 🟢 |
+|  42 | []() | 🟢 |
+|  43 | []() | 🟡 |
+|  44 | []() | 🟢 |
+|  45 | []() | 🟢 |
+|  46 | []() | 🟢 |
+|  47 | []() | 🟡 |
+
+|   | Intervals | ⚫ |
+|---|---|---|
+|  48 | []() | 🟢 |
+|  49 | []() | 🟡 |
+|  50 | []() | 🟡 |
+|  51 | []() | 🟡 |
+
+|   | Stack | ⚫ |
+|---|---|---|
+|  52 | []() | 🟢 |
+|  53 | []() | 🟡 |
+|  54 | []() | 🟡 |
+|  55 | []() | 🟡 |
+|  56 | []() | 🔴 |
+
+|   | Linked List | ⚫ |
+|---|---|---|
+|  52 | []() | 🟢 |
+|  53 | []() | 🟡 |
+|  54 | []() | 🟢 |
+|  55 | []() | 🟡 |
+|  56 | []() | 🟡 |
+|  57 | []() | 🔴 |
+|  58 | []() | 🟡 |
+|  59 | []() | 🟡 |
+|  60 | []() | 🟡 |
+|  61 | []() | 🟡 |
+|  62 | []() | 🟡 |
+
+|   | Binary Tree General | ⚫ |
+|---|---|---|
+|  63 | []() | 🟢 |
+|  64 | []() | 🟢 |
+|  65 | []() | 🟢 |
+|  66 | []() | 🟢 |
+|  67 | []() | 🟡 |
+|  68 | []() | 🟡 |
+|  69 | []() | 🟡 |
+|  70 | []() | 🟡 |
+|  71 | []() | 🟢 |
+|  72 | []() | 🟡 |
+|  73 | []() | 🔴 |
+|  74 | []() | 🟡 |
+|  75 | []() | 🟡 |
+|  76 | []() | 🟡 |
+
+|   | Binary Tree BFS | ⚫ |
+|---|---|---|
+|  77 | []() | 🟡 |
+|  78 | []() | 🟢 |
+|  79 | []() | 🟡 |
+|  80 | []() | 🟡 |
+
+|   | Binary Search Tree | ⚫ |
+|---|---|---|
+|  81 | []() | 🟢 |
+|  82 | []() | 🟡 |
+|  83 | []() | 🟡 |
+
+|   | Graph General | ⚫ |
+|---|---|---|
+|  84 | []() | 🟡 |
+|  85 | []() | 🟡 |
+|  86 | []() | 🟡 |
+|  87 | []() | 🟡 |
+|  88 | []() | 🟡 |
+|  89 | []() | 🟡 |
+
+|   | Graph BFS | ⚫ |
+|---|---|---|
+|  90 | []() | 🟡 |
+|  91 | []() | 🟡 |
+|  92 | []() | 🔴 |
+
+|   | Trie | ⚫ |
+|---|---|---|
+|  93 | []() | 🟡 |
+|  94 | []() | 🟡 |
+|  95 | []() | 🔴 |
+
+|   | Backtracking | ⚫ |
+|---|---|---|
+|  96 | []() | 🟡 |
+|  97 | []() | 🟡 |
+|  98 | []() | 🟡 |
+|  99 | []() | 🟡 |
+| 100 | []() | 🔴 |
+| 101 | []() | 🟡 |
+| 102 | []() | 🟡 |
+
+|   | Divide & Conquer | ⚫ |
+|---|---|---|
+| 103 | []() | 🟢 |
+| 104 | []() | 🟡 |
+| 105 | []() | 🟡 |
+| 106 | []() | 🔴 |
+
+|   | Kadane's Algorithm | ⚫ |
+|---|---|---|
+| 107 | []() | 🟡 |
+| 108 | []() | 🟡 |
+
+|   | Binary Search | ⚫ |
+|---|---|---|
+| 109 | []() | 🟢 |
+| 110 | []() | 🟡 |
+| 111 | []() | 🟡 |
+| 112 | []() | 🟡 |
+| 113 | []() | 🟡 |
+| 114 | []() | 🟡 |
+| 115 | []() | 🔴 |
+
+|   | Heap | ⚫ |
+|---|---|---|
+| 116 | []() | 🟡 |
+| 117 | []() | 🔴 |
+| 118 | []() | 🟡 |
+| 119 | []() | 🔴 |
+
+|   | Bit Manipulation | ⚫ |
+|---|---|---|
+| 120 | []() | 🟢 |
+| 121 | []() | 🟢 |
+| 122 | []() | 🟢 |
+| 123 | []() | 🟢 |
+| 124 | []() | 🟡 |
+| 125 | []() | 🟡 |
+
+|   | Math | ⚫ |
+|---|---|---|
+| 126 | []() | 🟢 |
+| 127 | []() | 🟢 |
+| 128 | []() | 🟡 |
+| 129 | []() | 🟢 |
+| 130 | []() | 🟡 |
+| 131 | []() | 🔴 |
+
+|   | 1D DP | ⚫ |
+|---|---|---|
+| 132 | []() | 🟢 |
+| 133 | []() | 🟡 |
+| 134 | []() | 🟡 |
+| 135 | []() | 🟡 |
+| 136 | []() | 🟡 |
+
+|   | Multidimensional DP | ⚫ |
+|---|---|---|
+| 137 | []() | 🟡 |
+| 138 | []() | 🟡 |
+| 139 | []() | 🟡 |
+| 140 | []() | 🟡 |
+| 141 | []() | 🟡 |
+| 142 | []() | 🟡 |
+| 143 | []() | 🔴 |
+| 144 | []() | 🔴 |
+| 145 | []() | 🟡 |
 
 ---
 
