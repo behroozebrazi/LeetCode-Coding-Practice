@@ -11,6 +11,9 @@ class Solution:
                 return key
 
 
+# class Solution:
+#     def majorityElement(self, nums: List[int]) -> int:
+
         # majority_candidate = None
         # count = 0
 
