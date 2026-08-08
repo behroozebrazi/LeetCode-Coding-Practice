@@ -3,8 +3,8 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
 
-        nums.sort()
         result = []
+        nums.sort()
 
         for i in range(len(nums) - 2):
 
@@ -29,6 +29,7 @@ class Solution:
                     while left < right and nums[left] == nums[left + 1]:
                         left += 1
 
+                    # Skip duplicates
                     while left < right and nums[right] == nums[right - 1]:
                         right -= 1
 
@@ -37,6 +38,7 @@ class Solution:
 
                 elif total < 0:
                     left += 1
+
                 else:
                     right -= 1
 
