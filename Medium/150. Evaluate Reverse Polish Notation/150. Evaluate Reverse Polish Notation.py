@@ -3,7 +3,6 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
 
-        result = 0
         stack = []
 
         for token in tokens:
