@@ -30,6 +30,5 @@ class Solution:
 
         if left == right_height(root):
             return (2 ** left) - 1
-            # return (1 << left) - 1
 
         return 1 + self.countNodes(root.left) + self.countNodes(root.right)
