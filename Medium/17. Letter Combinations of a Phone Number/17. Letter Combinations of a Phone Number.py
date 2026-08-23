@@ -3,9 +3,6 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
 
-        if not digits:
-            return []
-
         phone = {
             "2": "abc",
             "3": "def",
