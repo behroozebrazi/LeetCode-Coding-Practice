@@ -1,2 +1,11 @@
 # https://leetcode.com/problems/maximum-subarray
 
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        maxSum = localMaxSum = -10000
+
+        for num in nums:
+            localMaxSum = max(num, localMaxSum + num)
+            maxSum = max(maxSum, localMaxSum)
+
+        return maxSum
